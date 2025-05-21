@@ -56,7 +56,7 @@
   - Privilege Escalation: Exploiting misconfigured permissions to gain higher access levels.
   - Lateral Movement: Attackers use AD to identify and move to valuable targets within the network.
 
-*** Note: Many organizations are transitioning to hybrid environments with Microsoft Entra ID for combined on-premises and cloud-based identity management. This guide focuses on an on-premises setup for full control and to avoid cloud costs.
+*Note: Many organizations are transitioning to hybrid environments with Microsoft Entra ID for combined on-premises and cloud-based identity management. This guide focuses on an on-premises setup for full control and to avoid cloud costs.*
 
 ## Setup Windows Server 2025
   
